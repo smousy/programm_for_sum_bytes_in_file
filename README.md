@@ -14,6 +14,3 @@
 ## Дополнительные библиотеки: ##
 * boost :: asio - https://www.boost.org/ .
 * TinyXML - https://sourceforge.net/projects/tinyxml/ .
-
-## Быстрый запуск: ##
-[start.exe](https://github.com/smousy/multithreading-programm-for-counting-bytes-in-chosen-directory/blob/main/start.exe)
